@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <!-- ========================
+       META
+  ========================= -->
+  <meta charset="UTF-8">
+  <title>Pokefolio</title>
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/128/361/361998.png">
+
+  <!-- ========================
+       CSS + LIB
+  ========================= -->
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+  <!-- ========================
+       HEADER / CONTROL PANEL
+  ========================= -->
+  <div style="margin-bottom: 15px;">
+
+    <h2>⚡🔴 ⚈ ․̫ ⚈ 🔴 Pokefolio</h2>
+
+    <!-- Search -->
+    <input 
+      type="text" 
+      id="searchInput" 
+      placeholder="🔍 Search something..."
+      style="padding:8px; width:250px;"
+    >
+
+    <!-- Buttons -->
+    <button onclick="syncData()" style="padding:8px 12px; margin-left:10px;">
+      Sync Price
+    </button>
+
+    <button id="openWishlistBtn">⭐ Wishlist</button>
+
+    <!-- Filter -->
+    <div style="margin-top:10px;">
+      <b>Filter Rarity:</b>
+
+      <button onclick="setRarity('ALL')">ALL</button>
+      <button onclick="setRarity('SAR')">SAR</button>
+      <button onclick="setRarity('SSR')">SSR</button>
+      <button onclick="setRarity('SR')">SR</button>
+      <button onclick="setRarity('AR')">AR</button>
+      <button onclick="setRarity('RR')">RR</button>
+      <button onclick="setRarity('S')">S</button>
+      <button onclick="setRarity('PROMO')">PROMO</button>
+    </div>
+
+  </div>
+
+
+  <!-- ========================
+       DASHBOARD SUMMARY
+  ========================= -->
+  <div id="summary" style="display:flex; gap:15px; margin-top:15px; flex-wrap:wrap;">
+
+    <div class="card">
+      <h4>💼 มูลค่าพอร์ต</h4>
+      <p id="totalValue">0 ฿</p>
+    </div>
+
+    <div class="card">
+      <h4>💸 เงินลงทุน</h4>
+      <p id="totalBuy">0 ฿</p>
+    </div>
+
+    <div class="card">
+      <h4>📈 กำไรรวม</h4>
+      <p id="totalProfit">0 ฿</p>
+    </div>
+
+    <div class="card">
+      <h4>📊 % รวม</h4>
+      <p id="totalPercent">0%</p>
+    </div>
+
+  </div>
+
+
+  <!-- ========================
+       MAIN TABLE
+  ========================= -->
+  <table>
+    <thead>
+      <tr>
+        <th>รูป</th>
+        <th>ชื่อ</th>
+        <th>ราคาซื้อ (บาท)</th>
+        <th>ราคาปัจจุบัน (บาท)</th>
+        <th>กำไร</th>
+        <th>%</th>
+      </tr>
+    </thead>
+
+    <tbody id="tableBody"></tbody>
+  </table>
+
+
+  <!-- ========================
+       IMAGE PREVIEW (HOVER)
+  ========================= -->
+  <div id="preview" class="preview-box"></div>
+
+
+  <!-- ========================
+       MODAL (CHART)
+  ========================= -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+
+      <span class="close" onclick="closeModal()">❌</span>
+
+      <h3 id="chartTitle"></h3>
+      <canvas id="myChart"></canvas>
+
+    </div>
+  </div>
+
+
+  <!-- ========================
+       WISHLIST MODAL
+  ========================= -->
+  <div id="wishlistModal" class="modal">
+    <div class="modal-content">
+
+      <span class="close" id="closeWishlist">❌</span>
+
+      <h3>⭐ My Wishlist</h3>
+
+      <table>
+        <thead>
+          <tr>
+            <th>รูป</th>
+            <th>ชื่อ</th>
+            <th>ราคาปัจจุบัน (บาท)</th>
+            <th>ราคาเป้าหมาย</th>
+            <th>ส่วนต่าง</th>
+            <th>สถานะ</th>
+          </tr>
+        </thead>
+
+        <tbody id="wishlistTable"></tbody>
+      </table>
+
+    </div>
+  </div>
+
+
+  <!-- ========================
+       SCRIPT
+  ========================= -->
+  <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,241 @@
+/* ========================
+   GLOBAL
+======================== */
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: linear-gradient(135deg, #fff9c4, #e3f2fd);
+}
+
+/* ========================
+   IMAGE
+======================== */
+img {
+  width: 70px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* ========================
+   TABLE
+======================== */
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+  background: #fffdf5;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #f1e4a3;
+}
+
+th {
+  font-weight: bold;
+  color: #5d4037;
+  background: linear-gradient(135deg, #fff176, #ffd54f);
+}
+
+/* Row */
+tr {
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+tr:hover {
+  background: #fffde7;
+}
+
+/* ========================
+   PROFIT / LOSS
+======================== */
+.profit {
+  color: #2e7d32;
+  font-weight: bold;
+}
+
+.loss {
+  color: #c62828;
+  font-weight: bold;
+}
+
+/* ========================
+   MODAL
+======================== */
+.modal {
+  position: fixed;
+  z-index: 999;
+  display: none;
+
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(255, 235, 59, 0.2);
+  backdrop-filter: blur(4px);
+}
+
+.modal-content {
+  position: relative;
+  width: 80%;
+  max-width: 800px;
+  padding: 20px;
+
+  background: #fffefc;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+
+  animation: fadeIn 0.3s ease;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+
+  font-size: 22px;
+  cursor: pointer;
+}
+
+@keyframes fadeIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* ========================
+   DASHBOARD CARD
+======================== */
+.card {
+  flex: 1;
+  min-width: 180px;
+  padding: 15px;
+
+  text-align: center;
+  border-radius: 16px;
+  border: 1px solid #fff176;
+
+  background: linear-gradient(135deg, #fffde7, #fff59d);
+  box-shadow: 0 6px 15px rgba(255, 235, 59, 0.3);
+
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.02);
+}
+
+.card h4 {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #6d4c41;
+}
+
+.card p {
+  font-size: 22px;
+  font-weight: bold;
+  color: #f9a825;
+}
+
+/* ========================
+   INPUT + BUTTON
+======================== */
+input {
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #ffe082;
+  outline: none;
+}
+
+input:focus {
+  border-color: #ffd54f;
+  box-shadow: 0 0 5px rgba(255, 235, 59, 0.6);
+}
+
+button {
+  padding: 8px 12px;
+  margin-left: 10px;
+
+  border: none;
+  border-radius: 10px;
+
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+
+  background: linear-gradient(135deg, #fff176, #ffd54f);
+}
+
+button:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, #ffe082, #ffca28);
+}
+
+button.active {
+  color: white;
+  background: linear-gradient(135deg, #ffca28, #ff8f00);
+}
+
+/* ========================
+   IMAGE PREVIEW (HOVER)
+======================== */
+.preview-box {
+  position: absolute;
+  display: none;
+  z-index: 999;
+  pointer-events: none;
+}
+
+.preview-box img {
+  width: 200px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+
+/* ========================
+   FIX TABLE SCROLL
+======================== */
+#wishlistTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Scroll เฉพาะ body */
+#wishlistTable tbody {
+  display: block;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+/* Header + row ให้เท่ากัน */
+#wishlistTable thead,
+#wishlistTable tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+/* Scrollbar */
+#wishlistTable tbody::-webkit-scrollbar {
+  width: 8px;
+}
+
+#wishlistTable tbody::-webkit-scrollbar-thumb {
+  background: #ffd54f;
+  border-radius: 10px;
+}
