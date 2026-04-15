@@ -1,0 +1,894 @@
+[
+  {
+    "name": "Leafeon",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/nwn3omsdpm7wkpcv/240.jpg",
+    "buy": 1300,
+    "current": 57.83,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-terastal-festival/leafeon-ex-200",
+    "history": [
+      {
+        "date": "2026-03-25 16:35",
+        "price": 58.5
+      },
+      {
+        "date": "2026-03-26 11:38",
+        "price": 58.5
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 55.58
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 56.52
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 56.52
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 57.83
+      },
+      {
+        "date": "2026-04-15 22:33",
+        "price": 57.83
+      }
+    ]
+  },
+  {
+    "name": "Mew",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/3re7lj6h6aqxecm4/240.jpg",
+    "buy": 1900,
+    "current": 382.27,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/mew-ex-347",
+    "history": [
+      {
+        "date": "2026-03-25 16:35",
+        "price": 333.16
+      },
+      {
+        "date": "2026-03-26 11:38",
+        "price": 333.16
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 361.5
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 375.27
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 375.27
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 382.27
+      },
+      {
+        "date": "2026-04-15 22:33",
+        "price": 382.27
+      }
+    ]
+  },
+  {
+    "name": "Greninja",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/9b7bc008a38bf1fdab55af6c94d356dec894d13da1e96e10e061d39c59500cc9/240.jpg",
+    "buy": 2500,
+    "current": 226.55,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-crimson-haze/greninja-ex-90",
+    "history": [
+      {
+        "date": "2026-03-25 16:35",
+        "price": 260.84
+      },
+      {
+        "date": "2026-03-26 11:38",
+        "price": 237.63
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 250.0
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 250.0
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 226.55
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 226.55
+      },
+      {
+        "date": "2026-04-15 22:33",
+        "price": 226.55
+      }
+    ]
+  },
+  {
+    "name": "Greninja PROMO",
+    "image": "images/greninja_promo.jpg",
+    "buy": 450,
+    "current": 77.11,
+    "rarity": "PROMO",
+    "url": "https://www.pricecharting.com/game/pokemon-promo/greninja-ex-132",
+    "history": [
+      {
+        "date": "2026-03-26 11:38",
+        "price": 74.66
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 78.5
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 79.08
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 79.08
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 77.11
+      },
+      {
+        "date": "2026-04-15 22:33",
+        "price": 77.11
+      }
+    ]
+  },
+  {
+    "name": "Teal Mask Ogerpon",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/e798a5c4fbd4104f4c5f0c05293bbb419072f60fd425aa2036d42068c69d9a0c/240.jpg",
+    "buy": 950,
+    "current": 16.72,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-mask-of-change/teal-mask-ogerpon-ex-125",
+    "history": [
+      {
+        "date": "2026-03-26 11:38",
+        "price": 16.66
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 16.72
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 16.72
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 16.72
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 16.72
+      },
+      {
+        "date": "2026-04-15 22:33",
+        "price": 16.72
+      }
+    ]
+  },
+  {
+    "name": "Hearthflame Mask Ogerpon",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/81f4958650ee68b20047c4b924e906938c126e452b9c7c17547e6f10f0254986/1600.jpg",
+    "buy": 300,
+    "current": 9.07,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-mask-of-change/hearthflame-mask-ogerpon-ex-126",
+    "history": [
+      {
+        "date": "2026-04-13 12:30",
+        "price": 9.07
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 9.07
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 9.07
+      }
+    ]
+  },
+  {
+    "name": "Cornerstone Mask Ogerpon",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/894d667c7c37e72d20d1a4593960ed7657aaef3e729c2f7e7c8d45ae35ade07c/1600.jpg",
+    "buy": 300,
+    "current": 10.99,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-mask-of-change/cornerstone-mask-ogerpon-ex-128",
+    "history": [
+      {
+        "date": "2026-04-13 12:30",
+        "price": 10.55
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 10.55
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 10.99
+      }
+    ]
+  },
+  {
+    "name": "Altaria",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/5db16d2c8196a29d634431bb9b2d87deab0eaa470341e374870965f0f563bc42/240.jpg",
+    "buy": 750,
+    "current": 53.34,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-future-flash/altaria-ex-90",
+    "history": [
+      {
+        "date": "2026-03-26 11:38",
+        "price": 54.53
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 54.16
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 51.68
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 51.68
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 51.68
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 53.34
+      }
+    ]
+  },
+  {
+    "name": "Gardevoir",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/zvngqjwdhdicc2ws/240.jpg",
+    "buy": 1040,
+    "current": 108.64,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/gardevoir-ex-348",
+    "history": [
+      {
+        "date": "2026-03-26 11:38",
+        "price": 95.92
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 103.93
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 110.0
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 110.0
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 108.64
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 108.64
+      }
+    ]
+  },
+  {
+    "name": "Zapdos",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/bsjj26vj7mh2ywzg/240.jpg",
+    "buy": 1400,
+    "current": 94.96,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-&-violet-151/zapdos-ex-204",
+    "history": [
+      {
+        "date": "2026-03-26 11:39",
+        "price": 89.36
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 92.21
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 95.24
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 95.24
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 94.96
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 94.96
+      }
+    ]
+  },
+  {
+    "name": "Alakazam",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/9914521989f04088d3deb3809f35fbaa50ac7ee888e013991ce9803e6a4952a9/240.jpg",
+    "buy": 1000,
+    "current": 52.74,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-&-violet-151/alakazam-ex-203",
+    "history": [
+      {
+        "date": "2026-03-26 11:39",
+        "price": 52.38
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 51.6
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 51.74
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 52.74
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 52.74
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 52.74
+      }
+    ]
+  },
+  {
+    "name": "Miraidon",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/p6sflicbatbuzruf/240.jpg",
+    "buy": 1900,
+    "current": 36.66,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-violet-ex/miraidon-ex-102",
+    "history": [
+      {
+        "date": "2026-03-26 11:39",
+        "price": 39.1
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 38.3
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 38.31
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 36.66
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 36.66
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 36.66
+      }
+    ]
+  },
+  {
+    "name": "Koraidon",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/mzpldrddi45fyc6d/240.jpg",
+    "buy": 1450,
+    "current": 40.23,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-ex/koraidon-ex-103",
+    "history": [
+      {
+        "date": "2026-03-26 11:39",
+        "price": 37.25
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 33.15
+      },
+      {
+        "date": "2026-04-07 11:07",
+        "price": 33.15
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 33.15
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 40.23
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 40.23
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 40.23
+      }
+    ]
+  },
+  {
+    "name": "Walking Wake",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/28d976dffbc53169639ff0c37bc732b8f42eef3f1dfbb28b567d22ad6c8f35a0/240.jpg",
+    "buy": 1800,
+    "current": 29.76,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-wild-force/walking-wake-ex-94",
+    "history": [
+      {
+        "date": "2026-03-26 11:39",
+        "price": 29.99
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 29.66
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 29.53
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 29.53
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 29.53
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 29.76
+      }
+    ]
+  },
+  {
+    "name": "Garchomp",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/2g5v43rcabvc3ams/240.jpg",
+    "buy": 650,
+    "current": 31.4,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-raging-surf/garchomp-ex-85",
+    "history": [
+      {
+        "date": "2026-03-26 11:39",
+        "price": 29.53
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 25.1
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 28.28
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 28.28
+      },
+      {
+        "date": "2026-04-14 23:46",
+        "price": 31.4
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 31.4
+      }
+    ]
+  },
+  {
+    "name": "Sprigatito",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/5ppelafphy6hr4df/1600.jpg",
+    "buy": 100,
+    "current": 11.71,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/sprigatito-75",
+    "history": [
+      {
+        "date": "2026-04-14 23:46",
+        "price": 11.71
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 11.71
+      }
+    ]
+  },
+  {
+    "name": "Floragato",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/4m4kupbq6xww242l/1600.jpg",
+    "buy": 100,
+    "current": 5.0,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/floragato-76",
+    "history": [
+      {
+        "date": "2026-04-14 23:46",
+        "price": 5.32
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 5.0
+      }
+    ]
+  },
+  {
+    "name": "Meowscarada",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/7jthabjke2u4cfz7/240.jpg",
+    "buy": 1000,
+    "current": 58.15,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/meowscarada-96",
+    "history": [
+      {
+        "date": "2026-03-26 11:39",
+        "price": 59.61
+      },
+      {
+        "date": "2026-04-07 10:17",
+        "price": 48.99
+      },
+      {
+        "date": "2026-04-12 16:15",
+        "price": 57.99
+      },
+      {
+        "date": "2026-04-13 12:30",
+        "price": 57.99
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 58.15
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 58.15
+      }
+    ]
+  },
+  {
+    "name": "Meowscarada",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/0f10903b3f5a9bf5388cb5092c3a60aee9dbadaf01717567abe3510fcfc6afab/1600.jpg",
+    "buy": 25,
+    "current": 1.47,
+    "rarity": "RR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/meowscarada-ex-7",
+    "history": [
+      {
+        "date": "2026-04-14 23:47",
+        "price": 1.72
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 1.47
+      }
+    ]
+  },
+  {
+    "name": "Meowscarada",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/ref805d8313559ba1019b9509b55f57b2e8b4a0fa61f7e519c89a965deab3e24991/1600.jpg",
+    "buy": 25,
+    "current": 5.01,
+    "rarity": "SR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/meowscarada-86",
+    "history": [
+      {
+        "date": "2026-04-14 23:47",
+        "price": 5.01
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 5.01
+      }
+    ]
+  },
+  {
+    "name": "Meowscarada",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/b35e5b935cf0974508ed226349c5c43d5db8c74e9498e4465e1f65595736ccc0/1600.jpg",
+    "buy": 50,
+    "current": 3.2,
+    "rarity": "SSR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/meowscarada-ex-321",
+    "history": [
+      {
+        "date": "2026-04-14 23:47",
+        "price": 3.2
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 3.2
+      }
+    ]
+  },
+  {
+    "name": "Oricorio",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/zj26xd5hs2azfwog/1600.jpg",
+    "buy": 1300,
+    "current": 37.47,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-inferno-x/oricorio-ex-111",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 34.31
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 37.47
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 37.47
+      }
+    ]
+  },
+  {
+    "name": "Lana's Assistance",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/acea39260b6debb88c4d24813553fb6e523023765169575956904477fce58267/1600.jpg",
+    "buy": 650,
+    "current": 23.75,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-crimson-haze/lana%27s-assistance-93",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 23.75
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 23.75
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 23.75
+      }
+    ]
+  },
+  {
+    "name": "Archaludon",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/v4x76mdi2cw2qgsr/1600.jpg",
+    "buy": 440,
+    "current": 8.25,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-paradise-dragona/archaludon-ex-88",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 8.25
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 8.25
+      },
+      {
+        "date": "2026-04-15 22:34",
+        "price": 8.25
+      }
+    ]
+  },
+  {
+    "name": "Chien-Pao",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/ee95c660543aae966e2276629bf23384e81fc188c2ec83d9e8515e51256d2cad/1600.jpg",
+    "buy": 500,
+    "current": 30.86,
+    "rarity": "SAR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-snow-hazard/chien-pao-ex-93",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 30.86
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 30.86
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 30.86
+      }
+    ]
+  },
+  {
+    "name": "Pikachu Shiny Treasure",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/oz5arsehxrqhhsuo/1600.jpg",
+    "buy": 650,
+    "current": 25.0,
+    "rarity": "S",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/pikachu-236",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 22.21
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 25.0
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 25.0
+      }
+    ]
+  },
+  {
+    "name": "Froakie",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/2pg557eobjmvuyf5/1600.jpg",
+    "buy": 23,
+    "current": 8.48,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-ninja-spinner/froakie-86",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 8.48
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 8.48
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 8.48
+      }
+    ]
+  },
+  {
+    "name": "Frogadier",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/n2otopsr6g2d4guk/1600.jpg",
+    "buy": 23,
+    "current": 5.99,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-ninja-spinner/frogadier-87",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 6.5
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 5.99
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 5.99
+      }
+    ]
+  },
+  {
+    "name": "Mega Greninja",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/45wypqdkzjb2oynh/1600.jpg",
+    "buy": 23,
+    "current": 3.93,
+    "rarity": "RR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-ninja-spinner/mega-greninja-ex-22",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 4.66
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 3.93
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 3.93
+      }
+    ]
+  },
+  {
+    "name": "Psyduck",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/2eoa5mflbz7fw345/1600.jpg",
+    "buy": 400,
+    "current": 15.0,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-mega-dream-ex/psyduck-199",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 14.41
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 15.0
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 15.0
+      }
+    ]
+  },
+  {
+    "name": "Chansey",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/83eb18706024d879bac1db12dbfed98d8606963d90aca5fc5349ddde62b23676/1600.jpg",
+    "buy": 300,
+    "current": 13.0,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-mask-of-change/chansey-113",
+    "history": [
+      {
+        "date": "2026-04-13 12:31",
+        "price": 13.0
+      },
+      {
+        "date": "2026-04-14 23:47",
+        "price": 13.0
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 13.0
+      }
+    ]
+  },
+  {
+    "name": "Clefairy",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/u6odyyb6x22l45y2/1600.jpg",
+    "buy": 320,
+    "current": 8.73,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-nihil-zero/clefairy-86",
+    "history": [
+      {
+        "date": "2026-04-14 23:47",
+        "price": 8.73
+      },
+      {
+        "date": "2026-04-15 22:35",
+        "price": 8.73
+      }
+    ]
+  },
+  {
+    "name": "Rowlet",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/ktxzss4pn4jhpmn4/1600.jpg",
+    "buy": 95,
+    "current": 4.49,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-nihil-zero/rowlet-82",
+    "history": [
+      {
+        "date": "2026-04-15 22:35",
+        "price": 4.49
+      }
+    ]
+  },
+  {
+    "name": "Tyrunt",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/6x5h54sxyp7wlitg/1600.jpg",
+    "buy": 75,
+    "current": 4.48,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-nihil-zero/tyrunt-89",
+    "history": [
+      {
+        "date": "2026-04-15 22:35",
+        "price": 4.48
+      }
+    ]
+  }
+]
