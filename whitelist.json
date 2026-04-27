@@ -1,20 +1,29 @@
 [
   {
-    "name": "Garchomp",
-    "image": "https://storage.googleapis.com/images.pricecharting.com/2g5v43rcabvc3ams/240.jpg",
-    "current": 28.28,
-    "rarity": "SAR",
-    "url": "https://www.pricecharting.com/game/pokemon-japanese-raging-surf/garchomp-ex-85",
+    "name": "Snorlax",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/fa2gyksb6m353ju2/1600.jpg",
+    "current": 10.90,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-&-violet-151/snorlax-181",
+    "target_price_thb": 300,
+    "note": "รอราคาลง"
+  },
+  {
+    "name": "Misty's Psyduck",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/uvqp3stvfrd3aesd/1600.jpg",
+    "current": 26.32,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-heat-wave-arena/misty%27s-psyduck-71",
     "target_price_thb": 800,
     "note": "รอราคาลง"
   },
   {
-    "name": "Garchomp",
-    "image": "https://storage.googleapis.com/images.pricecharting.com/2g5v43rcabvc3ams/240.jpg",
-    "current": 28.28,
-    "rarity": "SAR",
-    "url": "https://www.pricecharting.com/game/pokemon-japanese-raging-surf/garchomp-ex-85",
-    "target_price_thb": 800,
+    "name": "Slowpoke",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/90114ce64e92c6623e5739bf9f27e90e7317086b6ce784d504343527ee959912/1600.jpg",
+    "current": 12.68,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-violet-ex/slowpoke-82",
+    "target_price_thb": 300,
     "note": "รอราคาลง"
   }
 ]
