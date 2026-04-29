@@ -2196,5 +2196,35 @@
         "price": 13.8
       }
     ]
+  },
+  {
+    "name": "Sprigatito",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/d68c9a7e67ab65585ee49849f2808f02e91a627bef602e2349c5806989818e72/1600.jpg",
+    "buy": 150,
+    "current": 5.37,
+    "rarity": "S",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/sprigatito-201",
+    "history": [
+    ]
+  },
+  {
+    "name": "Swablu",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/bee8af4af638b8b1a5e19cb90c3edf06141f5fefee8d13b2a01e139cef77cfa7/1600.jpg",
+    "buy": 170,
+    "current": 5.80,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-future-flash/swablu-76",
+    "history": [
+    ]
+  },
+  {
+    "name": "Eevee",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/c1d3d061e1cb075831c154634e7340e0e1e0a027420077f202ebb9d446e5484c/1600.jpg",
+    "buy": 950,
+    "current": 29.73,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-crimson-haze/eevee-78",
+    "history": [
+    ]
   }
 ]
