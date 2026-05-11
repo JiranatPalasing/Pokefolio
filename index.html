@@ -93,11 +93,26 @@
     <thead>
       <tr>
         <th>รูป</th>
-        <th>ชื่อ</th>
-        <th>ราคาซื้อ (บาท)</th>
-        <th>ราคาปัจจุบัน (บาท)</th>
-        <th>กำไร</th>
-        <th>%</th>
+
+        <th onclick="sortCards('name')">
+          ชื่อ
+        </th>
+
+        <th onclick="sortCards('buy')">
+          ราคาซื้อ (บาท)
+        </th>
+
+        <th onclick="sortCards('current')">
+          ราคาปัจจุบัน (บาท)
+        </th>
+
+        <th onclick="sortCards('profit')">
+          กำไร
+        </th>
+
+        <th onclick="sortCards('percent')">
+          %
+        </th>
       </tr>
     </thead>
 
