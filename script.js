@@ -7,7 +7,10 @@ let rate = 32;
 let allCards = [];
 let currentRarity = "ALL";
 let whitelist = [];
-
+let currentSort = {
+  field: null,
+  direction: "desc"
+};
 
 /* =========================
    API / LOAD DATA
@@ -254,17 +257,97 @@ function setRarity(rarity) {
 }
 
 function applyFilter() {
-  const keyword = document.getElementById("searchInput").value.toLowerCase();
+
+  const keyword = document
+    .getElementById("searchInput")
+    .value
+    .toLowerCase();
 
   let filtered = allCards.filter(card =>
     card.name.toLowerCase().includes(keyword)
   );
 
+  // FILTER RARITY
   if (currentRarity !== "ALL") {
-    filtered = filtered.filter(card => card.rarity === currentRarity);
+    filtered = filtered.filter(
+      card => card.rarity === currentRarity
+    );
+  }
+
+  // SORT
+  if (currentSort.field) {
+
+    filtered.sort((a, b) => {
+
+      let valA;
+      let valB;
+
+      switch (currentSort.field) {
+
+        case "name":
+          valA = a.name.toLowerCase();
+          valB = b.name.toLowerCase();
+          break;
+
+        case "buy":
+          valA = a.buy;
+          valB = b.buy;
+          break;
+
+        case "current":
+          valA = usdToTHB(a.current);
+          valB = usdToTHB(b.current);
+          break;
+
+        case "profit":
+          valA = usdToTHB(a.current) - a.buy;
+          valB = usdToTHB(b.current) - b.buy;
+          break;
+
+        case "percent":
+          valA =
+            ((usdToTHB(a.current) - a.buy) / a.buy) * 100;
+
+          valB =
+            ((usdToTHB(b.current) - b.buy) / b.buy) * 100;
+          break;
+      }
+
+      // STRING
+      if (typeof valA === "string") {
+
+        return currentSort.direction === "desc"
+          ? valB.localeCompare(valA)
+          : valA.localeCompare(valB);
+      }
+
+      // NUMBER
+      return currentSort.direction === "desc"
+        ? valB - valA
+        : valA - valB;
+    });
   }
 
   render(filtered);
+}
+
+function sortCards(field) {
+
+  // toggle direction
+  if (currentSort.field === field) {
+
+    currentSort.direction =
+      currentSort.direction === "desc"
+        ? "asc"
+        : "desc";
+
+  } else {
+
+    currentSort.field = field;
+    currentSort.direction = "desc";
+  }
+
+  applyFilter();
 }
 
 

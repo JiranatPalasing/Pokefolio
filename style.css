@@ -239,3 +239,15 @@ button.active {
   background: #ffd54f;
   border-radius: 10px;
 }
+
+/* ========================
+   SORTABLE TABLE HEADER
+======================== */
+th {
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+th:hover {
+  background: #ffe082;
+}
