@@ -3,7 +3,7 @@
     "name": "Leafeon",
     "image": "https://storage.googleapis.com/images.pricecharting.com/nwn3omsdpm7wkpcv/1600.jpg",
     "buy": 1300,
-    "current": 72.49,
+    "current": 69.99,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-terastal-festival/leafeon-ex-200",
     "history": [
@@ -114,6 +114,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 72.49
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 69.99
       }
     ]
   },
@@ -121,7 +125,7 @@
     "name": "Mew",
     "image": "https://storage.googleapis.com/images.pricecharting.com/3re7lj6h6aqxecm4/1600.jpg",
     "buy": 1900,
-    "current": 462.5,
+    "current": 472.5,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/mew-ex-347",
     "history": [
@@ -232,6 +236,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 462.5
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 472.5
       }
     ]
   },
@@ -239,7 +247,7 @@
     "name": "Greninja",
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/566145_in_1000x1000.jpg",
     "buy": 2500,
-    "current": 253.22,
+    "current": 252.93,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-crimson-haze/greninja-ex-90",
     "history": [
@@ -346,14 +354,18 @@
       {
         "date": "2026-05-29 16:10",
         "price": 253.22
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 252.93
       }
     ]
   },
   {
-    "name": "Greninja PROMO",
+    "name": "Greninja",
     "image": "images/greninja_promo.jpg",
     "buy": 450,
-    "current": 99.1,
+    "current": 100.0,
     "rarity": "PROMO",
     "url": "https://www.pricecharting.com/game/pokemon-promo/greninja-ex-132",
     "history": [
@@ -456,6 +468,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 99.1
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 100.0
       }
     ]
   },
@@ -566,6 +582,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 17.24
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 17.24
       }
     ]
   },
@@ -663,6 +683,10 @@
       },
       {
         "date": "2026-05-29 16:10",
+        "price": 11.02
+      },
+      {
+        "date": "2026-06-02 17:16",
         "price": 11.02
       }
     ]
@@ -762,6 +786,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 10.99
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 10.99
       }
     ]
   },
@@ -769,7 +797,7 @@
     "name": "Altaria",
     "image": "https://storage.googleapis.com/images.pricecharting.com/5db16d2c8196a29d634431bb9b2d87deab0eaa470341e374870965f0f563bc42/240.jpg",
     "buy": 750,
-    "current": 50.98,
+    "current": 56.5,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-future-flash/altaria-ex-90",
     "history": [
@@ -872,6 +900,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 50.98
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 56.5
       }
     ]
   },
@@ -879,7 +911,7 @@
     "name": "Gardevoir",
     "image": "https://storage.googleapis.com/images.pricecharting.com/zvngqjwdhdicc2ws/240.jpg",
     "buy": 1040,
-    "current": 124.11,
+    "current": 126.5,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/gardevoir-ex-348",
     "history": [
@@ -982,6 +1014,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 124.11
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 126.5
       }
     ]
   },
@@ -989,7 +1025,7 @@
     "name": "Zapdos",
     "image": "https://storage.googleapis.com/images.pricecharting.com/bsjj26vj7mh2ywzg/240.jpg",
     "buy": 1400,
-    "current": 95.0,
+    "current": 101.75,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-&-violet-151/zapdos-ex-204",
     "history": [
@@ -1092,6 +1128,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 95.0
+      },
+      {
+        "date": "2026-06-02 17:16",
+        "price": 101.75
       }
     ]
   },
@@ -1201,6 +1241,10 @@
       },
       {
         "date": "2026-05-29 16:10",
+        "price": 60.0
+      },
+      {
+        "date": "2026-06-02 17:17",
         "price": 60.0
       }
     ]
@@ -1312,6 +1356,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 36.66
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 36.66
       }
     ]
   },
@@ -1319,7 +1367,7 @@
     "name": "Koraidon",
     "image": "https://storage.googleapis.com/images.pricecharting.com/mzpldrddi45fyc6d/240.jpg",
     "buy": 1450,
-    "current": 36.84,
+    "current": 35.22,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-ex/koraidon-ex-103",
     "history": [
@@ -1426,6 +1474,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 36.84
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 35.22
       }
     ]
   },
@@ -1433,7 +1485,7 @@
     "name": "Walking Wake",
     "image": "https://storage.googleapis.com/images.pricecharting.com/28d976dffbc53169639ff0c37bc732b8f42eef3f1dfbb28b567d22ad6c8f35a0/240.jpg",
     "buy": 1800,
-    "current": 29.32,
+    "current": 29.0,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-wild-force/walking-wake-ex-94",
     "history": [
@@ -1536,6 +1588,10 @@
       {
         "date": "2026-05-29 16:10",
         "price": 29.32
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 29.0
       }
     ]
   },
@@ -1543,7 +1599,7 @@
     "name": "Garchomp",
     "image": "https://storage.googleapis.com/images.pricecharting.com/2g5v43rcabvc3ams/240.jpg",
     "buy": 650,
-    "current": 33.46,
+    "current": 33.5,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-raging-surf/garchomp-ex-85",
     "history": [
@@ -1646,6 +1702,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 33.46
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 33.5
       }
     ]
   },
@@ -1653,7 +1713,7 @@
     "name": "Sprigatito",
     "image": "https://storage.googleapis.com/images.pricecharting.com/5ppelafphy6hr4df/1600.jpg",
     "buy": 100,
-    "current": 13.3,
+    "current": 13.46,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/sprigatito-75",
     "history": [
@@ -1740,6 +1800,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 13.3
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 13.46
       }
     ]
   },
@@ -1747,7 +1811,7 @@
     "name": "Floragato",
     "image": "https://storage.googleapis.com/images.pricecharting.com/4m4kupbq6xww242l/1600.jpg",
     "buy": 100,
-    "current": 5.47,
+    "current": 6.73,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/floragato-76",
     "history": [
@@ -1834,6 +1898,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 5.47
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 6.73
       }
     ]
   },
@@ -1841,7 +1909,7 @@
     "name": "Meowscarada",
     "image": "https://storage.googleapis.com/images.pricecharting.com/7jthabjke2u4cfz7/240.jpg",
     "buy": 1000,
-    "current": 55.0,
+    "current": 55.5,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/meowscarada-96",
     "history": [
@@ -1944,6 +2012,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 55.0
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 55.5
       }
     ]
   },
@@ -2038,6 +2110,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 1.78
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 1.78
       }
     ]
   },
@@ -2045,7 +2121,7 @@
     "name": "Meowscarada",
     "image": "https://storage.googleapis.com/images.pricecharting.com/ref805d8313559ba1019b9509b55f57b2e8b4a0fa61f7e519c89a965deab3e24991/1600.jpg",
     "buy": 25,
-    "current": 5.19,
+    "current": 5.1,
     "rarity": "SR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-triplet-beat/meowscarada-86",
     "history": [
@@ -2128,6 +2204,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 5.19
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 5.1
       }
     ]
   },
@@ -2135,7 +2215,7 @@
     "name": "Meowscarada",
     "image": "https://storage.googleapis.com/images.pricecharting.com/b35e5b935cf0974508ed226349c5c43d5db8c74e9498e4465e1f65595736ccc0/1600.jpg",
     "buy": 50,
-    "current": 3.3,
+    "current": 2.75,
     "rarity": "SSR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/meowscarada-ex-321",
     "history": [
@@ -2222,6 +2302,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 3.3
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 2.75
       }
     ]
   },
@@ -2229,7 +2313,7 @@
     "name": "Oricorio",
     "image": "https://storage.googleapis.com/images.pricecharting.com/zj26xd5hs2azfwog/1600.jpg",
     "buy": 1300,
-    "current": 32.73,
+    "current": 29.99,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-inferno-x/oricorio-ex-111",
     "history": [
@@ -2320,6 +2404,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 32.73
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 29.99
       }
     ]
   },
@@ -2327,7 +2415,7 @@
     "name": "Lana's Assistance",
     "image": "https://storage.googleapis.com/images.pricecharting.com/acea39260b6debb88c4d24813553fb6e523023765169575956904477fce58267/1600.jpg",
     "buy": 650,
-    "current": 24.99,
+    "current": 25.0,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-crimson-haze/lana%27s-assistance-93",
     "history": [
@@ -2418,6 +2506,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 24.99
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 25.0
       }
     ]
   },
@@ -2425,7 +2517,7 @@
     "name": "Archaludon",
     "image": "https://storage.googleapis.com/images.pricecharting.com/v4x76mdi2cw2qgsr/1600.jpg",
     "buy": 440,
-    "current": 9.7,
+    "current": 9.69,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-paradise-dragona/archaludon-ex-88",
     "history": [
@@ -2516,6 +2608,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 9.7
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 9.69
       }
     ]
   },
@@ -2614,6 +2710,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 34.99
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 34.99
       }
     ]
   },
@@ -2621,7 +2721,7 @@
     "name": "Pikachu Shiny Treasure",
     "image": "https://storage.googleapis.com/images.pricecharting.com/oz5arsehxrqhhsuo/1600.jpg",
     "buy": 650,
-    "current": 35.01,
+    "current": 36.49,
     "rarity": "S",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/pikachu-236",
     "history": [
@@ -2712,6 +2812,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 35.01
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 36.49
       }
     ]
   },
@@ -2719,7 +2823,7 @@
     "name": "Froakie",
     "image": "https://storage.googleapis.com/images.pricecharting.com/2pg557eobjmvuyf5/1600.jpg",
     "buy": 23,
-    "current": 8.99,
+    "current": 8.3,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-ninja-spinner/froakie-86",
     "history": [
@@ -2810,6 +2914,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 8.99
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 8.3
       }
     ]
   },
@@ -2817,7 +2925,7 @@
     "name": "Frogadier",
     "image": "https://storage.googleapis.com/images.pricecharting.com/n2otopsr6g2d4guk/1600.jpg",
     "buy": 23,
-    "current": 6.4,
+    "current": 5.99,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-ninja-spinner/frogadier-87",
     "history": [
@@ -2908,6 +3016,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 6.4
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 5.99
       }
     ]
   },
@@ -2915,7 +3027,7 @@
     "name": "Mega Greninja",
     "image": "https://storage.googleapis.com/images.pricecharting.com/45wypqdkzjb2oynh/1600.jpg",
     "buy": 23,
-    "current": 3.51,
+    "current": 3.66,
     "rarity": "RR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-ninja-spinner/mega-greninja-ex-22",
     "history": [
@@ -3006,6 +3118,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 3.51
+      },
+      {
+        "date": "2026-06-02 17:17",
+        "price": 3.66
       }
     ]
   },
@@ -3013,7 +3129,7 @@
     "name": "Psyduck",
     "image": "https://storage.googleapis.com/images.pricecharting.com/2eoa5mflbz7fw345/1600.jpg",
     "buy": 400,
-    "current": 20.08,
+    "current": 21.51,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-mega-dream-ex/psyduck-199",
     "history": [
@@ -3104,6 +3220,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 20.08
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 21.51
       }
     ]
   },
@@ -3111,7 +3231,7 @@
     "name": "Chansey",
     "image": "https://storage.googleapis.com/images.pricecharting.com/83eb18706024d879bac1db12dbfed98d8606963d90aca5fc5349ddde62b23676/1600.jpg",
     "buy": 300,
-    "current": 17.92,
+    "current": 18.17,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-mask-of-change/chansey-113",
     "history": [
@@ -3202,6 +3322,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 17.92
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 18.17
       }
     ]
   },
@@ -3209,7 +3333,7 @@
     "name": "Clefairy",
     "image": "https://storage.googleapis.com/images.pricecharting.com/u6odyyb6x22l45y2/1600.jpg",
     "buy": 320,
-    "current": 8.63,
+    "current": 9.95,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-nihil-zero/clefairy-86",
     "history": [
@@ -3296,6 +3420,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 8.63
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 9.95
       }
     ]
   },
@@ -3303,7 +3431,7 @@
     "name": "Rowlet",
     "image": "https://storage.googleapis.com/images.pricecharting.com/ktxzss4pn4jhpmn4/1600.jpg",
     "buy": 95,
-    "current": 4.12,
+    "current": 4.46,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-nihil-zero/rowlet-82",
     "history": [
@@ -3386,6 +3514,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 4.12
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 4.46
       }
     ]
   },
@@ -3393,7 +3525,7 @@
     "name": "Tyrunt",
     "image": "https://storage.googleapis.com/images.pricecharting.com/6x5h54sxyp7wlitg/1600.jpg",
     "buy": 75,
-    "current": 3.56,
+    "current": 3.78,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-nihil-zero/tyrunt-89",
     "history": [
@@ -3476,6 +3608,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 3.56
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 3.78
       }
     ]
   },
@@ -3483,7 +3619,7 @@
     "name": "Psyduck",
     "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXVtPk9J9HUbN_MkjoeDhp6CPcIKC2cXSHmwijod4ANgOZNVbXIUQg98AcdEfaLZfCNbdr6uVQq11IkChVs989Gv6_3VZbQR9lN6BeSVK0EAPrxLaCfJXhowBsWaWEavj8VI7TYlw&usqp=CAc",
     "buy": 20,
-    "current": 3.18,
+    "current": 4.85,
     "rarity": "C",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-tag-bolt/psyduck-24",
     "history": [
@@ -3558,6 +3694,10 @@
       {
         "date": "2026-05-29 16:11",
         "price": 3.18
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 4.85
       }
     ]
   },
@@ -3565,7 +3705,7 @@
     "name": "Slowpoke",
     "image": "https://storage.googleapis.com/images.pricecharting.com/caf9d5b71bff0a1b7c9ce1f98d392ecaa4b2c8db5dee2588944e4d3449258b72/1600.jpg",
     "buy": 20,
-    "current": 2.07,
+    "current": 2.14,
     "rarity": "C",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-&-violet-151/slowpoke-79",
     "history": [
@@ -3640,6 +3780,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 2.07
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 2.14
       }
     ]
   },
@@ -3647,7 +3791,7 @@
     "name": "Snorlax",
     "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSgFChwHIHP_7a2OJNY70bRAwN4V7R56uSob0AwxIpi_04h4Y7C5f0okAToVMNJ4Gm_LK8-IiQoXdC3A7KQWxhPFtc8UdT1HydH8MAIQjyte2g1ZQX-Jy-a9hjB6pW0KVE4elfu1g&usqp=CAc",
     "buy": 59,
-    "current": 2.95,
+    "current": 2.94,
     "rarity": "C",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-rebel-clash/snorlax-77?q=snorlax+s2",
     "history": [
@@ -3710,6 +3854,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 2.95
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 2.94
       }
     ]
   },
@@ -3717,7 +3865,7 @@
     "name": "Plusle",
     "image": "https://storage.googleapis.com/images.pricecharting.com/omnglxb7tdoalzys/1600.jpg",
     "buy": 260,
-    "current": 16.73,
+    "current": 16.91,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-raging-surf/plusle-65",
     "history": [
@@ -3792,6 +3940,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 16.73
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 16.91
       }
     ]
   },
@@ -3799,7 +3951,7 @@
     "name": "Psyduck",
     "image": "https://storage.googleapis.com/images.pricecharting.com/3ed6c189a7a3f1dfee760c01d86b4f19d78e88907bc20e056168e68836b93db6/1600.jpg",
     "buy": 710,
-    "current": 22.3,
+    "current": 24.75,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-scarlet-&-violet-151/psyduck-175",
     "history": [
@@ -3862,6 +4014,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 22.3
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 24.75
       }
     ]
   },
@@ -3869,7 +4025,7 @@
     "name": "Sinistcha",
     "image": "https://storage.googleapis.com/images.pricecharting.com/irwevy7vbpxstt2w/1600.jpg",
     "buy": 300,
-    "current": 15.28,
+    "current": 14.47,
     "rarity": "SAR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-crimson-haze/sinistcha-ex-89",
     "history": [
@@ -3920,6 +4076,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 15.28
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 14.47
       }
     ]
   },
@@ -3927,7 +4087,7 @@
     "name": "Sprigatito",
     "image": "https://storage.googleapis.com/images.pricecharting.com/d68c9a7e67ab65585ee49849f2808f02e91a627bef602e2349c5806989818e72/1600.jpg",
     "buy": 150,
-    "current": 5.49,
+    "current": 5.99,
     "rarity": "S",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-shiny-treasure-ex/sprigatito-201",
     "history": [
@@ -3974,6 +4134,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 5.49
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 5.99
       }
     ]
   },
@@ -3981,7 +4145,7 @@
     "name": "Swablu",
     "image": "https://storage.googleapis.com/images.pricecharting.com/bee8af4af638b8b1a5e19cb90c3edf06141f5fefee8d13b2a01e139cef77cfa7/1600.jpg",
     "buy": 170,
-    "current": 6.86,
+    "current": 6.93,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-future-flash/swablu-76",
     "history": [
@@ -4028,6 +4192,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 6.86
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 6.93
       }
     ]
   },
@@ -4035,7 +4203,7 @@
     "name": "Eevee",
     "image": "https://storage.googleapis.com/images.pricecharting.com/c1d3d061e1cb075831c154634e7340e0e1e0a027420077f202ebb9d446e5484c/1600.jpg",
     "buy": 950,
-    "current": 30.51,
+    "current": 34.6,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-crimson-haze/eevee-78",
     "history": [
@@ -4086,6 +4254,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 30.51
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 34.6
       }
     ]
   },
@@ -4093,7 +4265,7 @@
     "name": "Piplup",
     "image": "https://storage.googleapis.com/images.pricecharting.com/ofnt7odzsdipesyr/1600.jpg",
     "buy": 260,
-    "current": 7.37,
+    "current": 7.12,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-inferno-x/piplup-85",
     "history": [
@@ -4132,6 +4304,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 7.37
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 7.12
       }
     ]
   },
@@ -4139,7 +4315,7 @@
     "name": "Dedenne",
     "image": "https://storage.googleapis.com/images.pricecharting.com/axhenhysd57qt4yi/1600.jpg",
     "buy": 120,
-    "current": 4.61,
+    "current": 4.75,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-nihil-zero/dedenne-85",
     "history": [
@@ -4178,6 +4354,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 4.61
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 4.75
       }
     ]
   },
@@ -4185,7 +4365,7 @@
     "name": "Snivy",
     "image": "https://storage.googleapis.com/images.pricecharting.com/smsr4fqrg726hcem/1600.jpg",
     "buy": 300,
-    "current": 11.16,
+    "current": 11.49,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-black-bolt/snivy-87",
     "history": [
@@ -4224,6 +4404,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 11.16
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 11.49
       }
     ]
   },
@@ -4231,7 +4415,7 @@
     "name": "Medicham",
     "image": "https://storage.googleapis.com/images.pricecharting.com/houqdfhmbd6oht5u/1600.jpg",
     "buy": 150,
-    "current": 2.99,
+    "current": 2.49,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-mega-dream-ex/medicham-207",
     "history": [
@@ -4270,6 +4454,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 2.99
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 2.49
       }
     ]
   },
@@ -4286,7 +4474,7 @@
     "name": "Wailord",
     "image": "https://storage.googleapis.com/images.pricecharting.com/ohpiwtrxbzh7o6mm/1600.jpg",
     "buy": 185,
-    "current": 5.5,
+    "current": 5.68,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-battle-partners/wailord-103",
     "history": [
@@ -4317,6 +4505,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 5.5
+      },
+      {
+        "date": "2026-06-02 17:18",
+        "price": 5.68
       }
     ]
   },
@@ -4324,7 +4516,7 @@
     "name": "Tepig",
     "image": "https://storage.googleapis.com/images.pricecharting.com/34l5dj27u33b7gmc/1600.jpg",
     "buy": 185,
-    "current": 13.79,
+    "current": 13.88,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-white-flare/tepig-96",
     "history": [
@@ -4355,6 +4547,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 13.79
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 13.88
       }
     ]
   },
@@ -4381,6 +4577,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 1.99
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 1.99
       }
     ]
   },
@@ -4388,7 +4588,7 @@
     "name": "Chespin",
     "image": "https://storage.googleapis.com/images.pricecharting.com/mwy2ro6pyvsovfk7/1600.jpg",
     "buy": 235,
-    "current": 4.92,
+    "current": 4.86,
     "rarity": "AR",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-ninja-spinner/chespin-84",
     "history": [
@@ -4403,6 +4603,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 4.92
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 4.86
       }
     ]
   },
@@ -4410,7 +4614,7 @@
     "name": "Psyduck",
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/676884_in_1000x1000.jpg",
     "buy": 30,
-    "current": 1.27,
+    "current": 1.92,
     "rarity": "C",
     "url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/psyduck-ball-39",
     "history": [
@@ -4421,6 +4625,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 1.27
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 1.92
       }
     ]
   },
@@ -4428,7 +4636,7 @@
     "name": "Golduck",
     "image": "https://storage.googleapis.com/images.pricecharting.com/sisxu4dh3bbodnpf/1600.jpg",
     "buy": 30,
-    "current": 0.6,
+    "current": 0.72,
     "rarity": "C",
     "url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/golduck-ball-40",
     "history": [
@@ -4439,6 +4647,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 0.6
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 0.72
       }
     ]
   },
@@ -4446,7 +4658,7 @@
     "name": "Golduck",
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/677024_in_1000x1000.jpg",
     "buy": 30,
-    "current": 2.11,
+    "current": 1.98,
     "rarity": "C",
     "url": "https://www.pricecharting.com/game/pokemon-ascended-heroes/psyduck-energy-39",
     "history": [
@@ -4457,6 +4669,10 @@
       {
         "date": "2026-05-29 16:12",
         "price": 2.11
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 1.98
       }
     ]
   },
@@ -4464,13 +4680,17 @@
     "name": "Slowpoke",
     "image": "https://i.ebayimg.com/images/g/4ooAAeSw7AxpyPKC/s-l225.jpg",
     "buy": 278,
-    "current": 13.01,
+    "current": 12.79,
     "rarity": "PROMO",
     "url": "https://www.pricecharting.com/game/pokemon-japanese-promo/slowpoke-gym-promo-70m-p",
     "history": [
       {
         "date": "2026-05-29 16:13",
         "price": 13.01
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 12.79
       }
     ]
   },
@@ -4485,7 +4705,49 @@
       {
         "date": "2026-05-29 16:13",
         "price": 19.5
+      },
+      {
+        "date": "2026-06-02 17:19",
+        "price": 19.5
       }
+    ]
+  },
+  {
+    "name": "Slowpoke",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/90114ce64e92c6623e5739bf9f27e90e7317086b6ce784d504343527ee959912/1600.jpg",
+    "buy": 350,
+    "current": 14.63,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-violet-ex/slowpoke-82",
+    "history": [
+      {
+        "date": "2026-06-02 17:19",
+        "price": 14.63
+      }
+    ]
+  },
+  {
+    "name": "Mimikyu",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/698d612d7bf20b1a223bf384d2561feeb669dca8509ce096f060aee86ee6987d/1600.jpg",
+    "buy": 560,
+    "current": 18.82,
+    "rarity": "PROMO",
+    "url": "https://www.pricecharting.com/game/pokemon-promo/mimikyu-75",
+    "history": [
+      {
+        "date": "2026-06-02 17:19",
+        "price": 18.82
+      }
+    ]
+  },
+  {
+    "name": "Slowbro",
+    "image": "https://storage.googleapis.com/images.pricecharting.com/pxprclz3b22km2aj/1600.jpg",
+    "buy": 350,
+    "current": 20.94,
+    "rarity": "AR",
+    "url": "https://www.pricecharting.com/game/pokemon-japanese-abyss-eye/slowbro-87",
+    "history": [
     ]
   }
 ]
